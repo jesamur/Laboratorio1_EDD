@@ -1,0 +1,5 @@
+id,nombre,categoria,precio,stock,descripcion,proveedor
+1,Camiseta,Ropa casual,45000,50,algodón 100%,ModaColombia
+2,Jean,Vestidos,120000,30,azul oscuro ,Textiles Andinos
+3,Vestido,Vestidos,89900,25,Verano,Diseños Caribe
+4,Chaqueta,Abrigos,150000,15,Clásica,ModaColombia
