@@ -594,7 +594,7 @@ def main():
             elif sub_opcion == "2":
                 register_provider(providers_file)
             elif sub_opcion == "3":
-                register_venta(sales_file, indexventas, products_file, indice_productos)
+                register_venta(sales_file, indice_productos)
             
             elif sub_opcion == "4":
                 nombre = input("Ingrese el nombre del producto a eliminar: ")
