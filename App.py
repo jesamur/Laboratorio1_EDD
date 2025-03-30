@@ -613,7 +613,7 @@ def main():
             sub_opcion = input("Seleccione una opción: ")
             
             if sub_opcion == "1":
-                realizar_compra(purchases_file, indexcompras, products_file, indice_productos, providers_file, indice_proveedores)
+                realizar_compra(purchases_file, indice_productos, indice_proveedores)
             elif sub_opcion == "2":
                 print("\nCompras realizadas:")
                 archivo_compras.leer_archivo()
