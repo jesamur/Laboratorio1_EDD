@@ -656,7 +656,7 @@ def main():
                 proveedores_frecuentes("products.csv")  
 
             elif sub_opcion == "3":
-                productos_mas_vendidos("sales.csv", "products.csv")
+                productos_mas_vendidos("sales.csv")
 
             elif sub_opcion == "4":
                 fecha_inicio = input("Ingrese la fecha de inicio (DD/MM/YYYY): ").strip()
